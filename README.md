@@ -1,6 +1,6 @@
 # About
 
-A place for me, Slingy, to put stuff regarding the game A Bizarre Showdown. If you don't know what that is, go play it cuz it's super cool and fun and you will love it!!! <br><br>Ok maybe only if you like Jojo's and Jujutsu Shenanigans but still.<br> It is good and not just because I made it.
+A GitHub Pages site that contains everything that makes up A Bizarre Beatdown besides actual code, whether that be content IDs (for decals, animations, etc), changelogs, or just tidbits about the development of the game.
 
 # Animation IDs
 
@@ -9,4 +9,5 @@ Blocking - 77692842973773 <br>
 Blocking Unlooped (Unused) - 89771267194431 <br>
 Blocking Release (Unused) - 86954033473956 <br>
 Melee1 - 98835079116914 <br>
-Melee2 - 75642368154234 <br>
+Melee2 - 72067422910458 <br>
+Melee2 (Unused variant) - 75642368154234 <br>
