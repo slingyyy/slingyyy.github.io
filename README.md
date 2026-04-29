@@ -4,8 +4,8 @@ A place for me, Slingy, to put stuff regarding the game A Bizarre Showdown. If y
 
 # Animation IDs
 
-Stardust Crusader:
-Blocking - 77692842973773 <br>
-Blocking Unlooped (Unused) - 89771267194431 <br>
-Blocking Release (Unused) - 86954033473956 <br>
-Melee1 - 98835079116914 <br>
+Stardust Crusader:<br>
+  Blocking - 77692842973773 <br>
+  Blocking Unlooped (Unused) - 89771267194431 <br>
+  Blocking Release (Unused) - 86954033473956 <br>
+  Melee1 - 98835079116914 <br>
