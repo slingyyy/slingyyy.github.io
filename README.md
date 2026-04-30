@@ -5,7 +5,7 @@ A GitHub Pages site that contains everything that makes up A Bizarre Beatdown be
 # Animation IDs
 
 Stardust Crusader:<br>
-<dd>Blocking - 77692842973773 <br>
+Blocking - 77692842973773 <br><br>
 Blocking Unlooped (Unused) - 89771267194431 <br>
 Blocking Release (Unused) - 86954033473956 <br>
 Melee1 - 98835079116914 <br>
