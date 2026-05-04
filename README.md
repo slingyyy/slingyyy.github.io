@@ -4,9 +4,9 @@ A GitHub Pages site that contains everything that makes up A Bizarre Beatdown be
 
 # Animation IDs
 
-Generic:
-Stun - 119366495862075
-
+Generic:<br>
+Stun - 119366495862075<br>
+<br>
 Stardust Crusader:<br><br>
 Run - 96259511550125<br>
 Blocking - 77692842973773 <br>
