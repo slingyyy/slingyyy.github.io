@@ -1,17 +1,3 @@
-<style>
-  body {
-    background-color: #000000 !important;
-    color: #ffffff !important;
-  }
-  .site-title, .site-title:visited, .page-link {
-    color: #ffffff !important;
-  }
-  .site-header {
-    border-top: 5px solid #333 !important;
-    background-color: #111 !important;
-  }
-</style>
-
 **Credits**: Site owned by Slingy, David's Ability Battles developed and created by the Slingy Mafia
 
 **Info**: repository for the hit game known as David's Ability Battles, includes Animation IDs, SFX IDs, and more!
