@@ -1,11 +1,9 @@
 title: David's Ability Battles Repository
 
-emote_theme: alexander-heimbuch/millidocs
+remote_theme: jekyll/minima
 
-#remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 
-#plugins:
-#  - jekyll-remote-theme
-
-#minima:
- # skin: dark
+minima:
+  skin: dark
