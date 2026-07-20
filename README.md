@@ -1,10 +1,22 @@
 ---
-layout: home
+layout: default
 ---
 
 <style>
+  /* Force Black Background and White Text globally */
+  html, body, .site-header, .site-footer {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+  }
+  
+  /* Make all Bold Text bright Orange */
   strong, b {
-    color: #FF8C00 !important; /* Forces all bold text to be Dark Orange */
+    color: #FF8C00 !important;
+  }
+
+  /* Make Links visible against black */
+  a, .site-title, .site-title:visited, .page-link {
+    color: #33a6ff !important;
   }
 </style>
 **Credits**: Site owned by Slingy, David's Ability Battles developed and created by the Slingy Mafia
