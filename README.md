@@ -1,8 +1,10 @@
-# About
+**Credits**: Site owned by Slingy, David's Ability Battles developed and created by the Slingy Mafia
 
-A GitHub Pages site that contains everything that makes up A Bizarre Beatdown besides actual code, whether that be content IDs (for decals, animations, etc), changelogs, or just tidbits about the development of the game.
+**Info**: repository for the hit game known as David's Ability Battles, includes Animation IDs, SFX IDs, and more!
 
-# Animation IDs
+**Generic:**
+
+**Joe:**
 
 <b>Generic:</b><br><br>
 Stun - 119366495862075<br>
