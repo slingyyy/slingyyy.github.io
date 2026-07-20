@@ -1,3 +1,12 @@
+---
+layout: home
+---
+
+<style>
+  strong, b {
+    color: #FF8C00 !important; /* Forces all bold text to be Dark Orange */
+  }
+</style>
 **Credits**: Site owned by Slingy, David's Ability Battles developed and created by the Slingy Mafia
 
 **Info**: repository for the hit game known as David's Ability Battles, includes Animation IDs, SFX IDs, and more!
